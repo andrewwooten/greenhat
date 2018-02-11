@@ -1240,8 +1240,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
 
   }
     .landing-page .section-testimonial .carousel-inner .item .mask{
-      width: 100px;
-      height: 100px;
+      width: 150px;
+      height: 150px;
       border-radius: 50%;
       border: 5px solid #ddd;
       overflow: hidden;
@@ -1251,7 +1251,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
 
    .landing-page .section-testimonial .carousel-inner .item img{
       width: 100%;
-      height: auto;
+      height: 100%;
       display: block;
    }
 
